@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1_CJAr-cBCwvYq8pSduNVfb
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deployment
+
+This project is configured for easy deployment on **Vercel** or **Netlify**.
+
+👉 **[Read the Deployment Guide (DEPLOY.md)](./DEPLOY.md)** for step-by-step instructions on going live and configuring Google Auth for your production domain.
